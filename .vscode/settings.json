@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "lists.h": "c",
+        "stdlib.h": "c"
+    }
+}
