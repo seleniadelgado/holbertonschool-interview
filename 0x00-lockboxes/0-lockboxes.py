@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 # queue to add the keys as they open
 # list to add the keys as u use them from the queue
