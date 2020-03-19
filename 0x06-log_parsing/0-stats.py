@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import fileinput
+from sys import stdin
 
 
 def aggregate_stats():
