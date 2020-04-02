@@ -1,0 +1,1 @@
+A function that checks for a cycle in a linked list.
