@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "/Users/angiedelgado/mission-techies/meda-spring2020-angie/practice/javascript"
+		},
+		{
+			"path": "/Users/angiedelgado/holberton/vagrant/holbertonschool-web_front_end"
+		},
+		{
+			"path": "/Users/angiedelgado/Downloads/images"
+		},
+		{
+			"path": "/Users/angiedelgado/Downloads/source-sans-pro"
+		},
+		{
+			"path": "/Users/angiedelgado/Downloads/Spin-Cycle-OT"
+		}
+	],
+    "settings": {
+        "workbench.colorCustomizations": {
+            "activityBar.background": "#610217",
+            "titleBar.activeBackground": "#880321",
+            "titleBar.activeForeground": "#FFFBFC"
+        },
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "holbertonschool-web_front_end"
+    }
+}
